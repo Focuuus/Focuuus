@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 🖥️ Languages - C | C++ | Python | Bash
 🛠️ Tools - Git | GitHub 
