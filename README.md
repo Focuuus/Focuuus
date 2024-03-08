@@ -4,7 +4,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,vim,sublime,vscode,visualstudio,linux,notion,raspberrypi,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,linux,raspberrypi,vim,sublime,vscode,visualstudio,notion,git)](https://skillicons.dev)
 
 🖥️ Languages - C | C++ | Python | Bash
 🛠️ Tools - Git | GitHub 
