@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">👋</h1>
+
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://fuckyeahanimation.tumblr.com/image/615301143842750464)"/>
+
+###
 
 <h2 align="left">🧑‍💻 Current Technical Skills</h2>
 
@@ -10,4 +14,5 @@
 
 ###
 
-✨📚🎯🎲
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
