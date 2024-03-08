@@ -6,6 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,linux,raspberrypi,vim,sublime,vscode,visualstudio,notion)](https://skillicons.dev)
 
-🖥️ Languages - C | C++ | Python | Bash
-🛠️ Tools - Git | GitHub 
-🤖 IDEs - Vim | Visual Studio
+<p align="left">🖥️ Languages - C | C++ | Python | Bash<br>🛠️ Tools - Git | GitHub <br>🤖 IDEs - Vim | Visual Studio</p>
+
+###
+
+✨📚🎯🎲
