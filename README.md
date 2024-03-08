@@ -1,6 +1,6 @@
 <h1 align="center">👋</h1>
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://fuckyeahanimation.tumblr.com/image/615301143842750464)"/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://fuckyeahanimation.tumblr.com/image/615301143842750464)"/>
 
 ###
 
