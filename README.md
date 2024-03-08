@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">🧑‍💻 Current Technical Skills</h2>
+<h2 align="left">🧑‍💻 Current Skills</h2>
 
 ###
 
