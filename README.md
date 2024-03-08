@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,linux,raspberrypi,vim,sublime,vscode,visualstudio,notion)](https://skillicons.dev)
 
-<p align="left">🖥️ Languages - C | C++ | Python | Bash<br>🛠️ Tools - Git | GitHub <br>🤖 IDEs - Vim | Visual Studio</p>
+<p align="left">🖥️ Languages - C | C++ | Python<br>🛠️ Tools - GitHub | Raspberry Pi<br>🤖 IDEs - Vim | Visual Studio | Sublime</p>
 
 ###
 
