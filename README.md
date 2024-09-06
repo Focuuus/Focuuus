@@ -6,7 +6,7 @@
 
 <h2 align="left">🧑‍💻 Current Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,github,linux,arch,raspberrypi,vim,sublime,vscode,vscodium,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,github,linux,arch,raspberrypi,vim,vscode,vscodium)](https://skillicons.dev)
 
 <p align="left">🖥️ Languages - C | C++ | Python | Bash<br>🛠️ Tools - Git | GitHub | Raspberry Pi<br>🤖 IDEs - Vim | Visual Studio</p>
 
