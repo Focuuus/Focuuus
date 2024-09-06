@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,github,linux,arch,raspberrypi,vim,vscode,vscodium)](https://skillicons.dev)
 
-<p align="left">🖥️ Languages - C | C++ | Python | Bash<br>🛠️ Tools - Git | GitHub | Raspberry Pi<br>🤖 IDEs - Vim | Visual Studio</p>
+<p align="left">🖥️ Languages - C | C++ | Python | Bash<br>🛠️ Tools - GitHub | Raspberry Pi<br>🤖 IDEs - Vim | VSCodium</p>
 
 <h2 align="left"></h2>
 
